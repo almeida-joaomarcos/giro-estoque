@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "br.com.giroestoque" "\0"
-            VALUE "FileDescription", "giro_estoque" "\0"
+            VALUE "FileDescription", "Giro - Controle de Estoque" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "giro_estoque" "\0"
+            VALUE "InternalName", "Giro" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2026 br.com.giroestoque. All rights reserved." "\0"
             VALUE "OriginalFilename", "giro_estoque.exe" "\0"
-            VALUE "ProductName", "giro_estoque" "\0"
+            VALUE "ProductName", "Giro" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
