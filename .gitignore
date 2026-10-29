@@ -1,0 +1,37 @@
+# Arquivos de build do Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+coverage/
+*.iml
+
+# Builds por plataforma
+android/.gradle/
+android/local.properties
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/key.properties
+ios/Pods/
+ios/.symlinks/
+macos/Pods/
+windows/flutter/ephemeral/
+linux/flutter/ephemeral/
+macos/Flutter/ephemeral/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Banco de dados local de testes
+*.db
+*.db-journal
