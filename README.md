@@ -8,6 +8,7 @@ O diferencial: o núcleo é único e o **segmento** escolhido no primeiro uso co
 ![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-local-003B57?logo=sqlite&logoColor=white)
 ![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-green)
+![Android APK](https://github.com/almeida-joaomarcos/giro-estoque/actions/workflows/android.yml/badge.svg)
 
 ---
 
