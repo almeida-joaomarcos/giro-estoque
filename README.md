@@ -12,6 +12,18 @@ O diferencial: o núcleo é único e o **segmento** escolhido no primeiro uso co
 
 ---
 
+## 📲 Baixar e instalar (Android)
+
+A versão mais recente está em **[Releases](https://github.com/almeida-joaomarcos/giro-estoque/releases/latest)**.
+
+1. Baixe o `app-release.apk`.
+2. Autorize a instalação de fontes desconhecidas quando o Android pedir.
+3. Se o Play Protect avisar, escolha "instalar mesmo assim" — o APK é assinado com chave de desenvolvimento.
+
+Requisitos: Android 7.0 ou superior. Funciona 100% offline.
+
+---
+
 ## Por que ele existe
 
 Sistemas de estoque costumam ser caros, cheios de recursos que o pequeno comércio não usa e dependentes de internet. O Giro faz o básico muito bem:
